@@ -1,0 +1,3 @@
+insert into "tipo_producto"(cobrar_iva, descripcion, nombre_tipo_producto, porcentaje_aduanal, porcentaje_flete, porcentaje_impuestos, porcentaje_seguro, porcentaje_combustible) values (true, 'test', 'Celular', 0.04, 0.07, 0.15, 0.05, 0.02);
+insert into "tipo_producto"(cobrar_iva, descripcion, nombre_tipo_producto, porcentaje_aduanal, porcentaje_flete, porcentaje_impuestos, porcentaje_seguro, porcentaje_combustible) values (false, 'test', 'Ropa', 0.05, 0.02, 0.12, 0.03, 0.01);
+insert into "tipo_producto"(cobrar_iva, descripcion, nombre_tipo_producto, porcentaje_aduanal, porcentaje_flete, porcentaje_impuestos, porcentaje_seguro, porcentaje_combustible) values (true, 'test', 'Repuesto de Vehiculo', 0.06, 0.1, 0.12, 0.05, 0.03);
